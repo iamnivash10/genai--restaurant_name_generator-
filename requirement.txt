@@ -1,0 +1,4 @@
+install langchain
+install langchain_groq
+get api key or token key from groq cloud
+install streamlit
